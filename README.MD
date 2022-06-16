@@ -8,6 +8,8 @@ There is a company named Siili Solutions Oyj and their web site is siili.com, bu
 
 I will handle the renaming in the software ASAP and update Github accordingly.
 
+Additionally in the next version I will update both the project file structure and the naming of java packages and methods. The current version was written in a hurry to just get the algorithms working.
+
 ### Note 2: The directory (folder) screenshots contains a Postman screenshot example
 
 That example shows the response when the amount of queries has exceeded the daily or monthly limit.
